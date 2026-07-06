@@ -1,0 +1,39 @@
+# Geotechnik — Hagen
+
+> Geotechnical engineering services in Hagen, Deutschland.
+
+## Services
+- [Anker](https://hagen.geotechnik.biz/anker/)
+- [Bodenplatten](https://hagen.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://hagen.geotechnik.biz/bodenverbesserung/)
+- [Boschungsstabilitat](https://hagen.geotechnik.biz/boschungsstabilitat/)
+- [Cbr Strasse](https://hagen.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://hagen.geotechnik.biz/cpt-versuch/)
+- [Erdbebenisolierung](https://hagen.geotechnik.biz/erdbebenisolierung/)
+- [Geophysik](https://hagen.geotechnik.biz/geophysik/)
+- [Grundungen](https://hagen.geotechnik.biz/grundungen/)
+- [Hange](https://hagen.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://hagen.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://hagen.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://hagen.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://hagen.geotechnik.biz/labor/)
+- [Labor In Situ](https://hagen.geotechnik.biz/labor-in-situ/)
+- [Masw](https://hagen.geotechnik.biz/masw/)
+- [Plattendruckversuch](https://hagen.geotechnik.biz/plattendruckversuch/)
+- [Ruttelverdichtung](https://hagen.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://hagen.geotechnik.biz/sandkegel-dichte/)
+- [Schottersaulen](https://hagen.geotechnik.biz/schottersaulen/)
+- [Seismik](https://hagen.geotechnik.biz/seismik/)
+- [Seismische Refraktion](https://hagen.geotechnik.biz/seismische-refraktion/)
+- [Spt Bohrung](https://hagen.geotechnik.biz/spt-bohrung/)
+- [Starrer Belag](https://hagen.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://hagen.geotechnik.biz/strassenbau/)
+- [Untersuchung](https://hagen.geotechnik.biz/untersuchung/)
+- [Widerstand](https://hagen.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://hagen.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Hagen, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
